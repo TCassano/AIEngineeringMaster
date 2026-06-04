@@ -10,3 +10,6 @@
 ## Vision Transformer Train/Val loss acc performance and Test Confusion Matrix
 <img width="1789" height="490" alt="image" src="https://github.com/user-attachments/assets/eda56c30-c84a-4ae1-86b8-451c3db00166" />
 <img width="1287" height="1089" alt="image" src="https://github.com/user-attachments/assets/b34ee206-09d3-4d9a-a00d-25ae0596f28f" />
+
+## Final Performances
+<img width="889" height="490" alt="image" src="https://github.com/user-attachments/assets/89435904-4b89-4358-80b2-5480e8ab1b39" />
